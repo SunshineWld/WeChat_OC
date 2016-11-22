@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="7uo-8P-Flv" customClass="YYFriendHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="400"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ILD-2Q-ef6" customClass="YYButton">
+                    <color key="backgroundColor" red="0.1215686275" green="0.12941176469999999" blue="0.14117647059999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" backgroundImage="pbg"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" adjustsImageWhenHighlighted="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sHX-mv-hmQ" customClass="YYButton">
+                    <constraints>
+                        <constraint firstAttribute="width" constant="60" id="aGq-Zr-KUh"/>
+                        <constraint firstAttribute="height" constant="60" id="g8X-vP-Ip3"/>
+                    </constraints>
+                    <state key="normal" backgroundImage="xifu"/>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="YYSky" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gWf-PU-PgV">
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="sHX-mv-hmQ" firstAttribute="leading" secondItem="gWf-PU-PgV" secondAttribute="trailing" constant="20" id="5Bd-0w-qji"/>
+                <constraint firstItem="ILD-2Q-ef6" firstAttribute="top" secondItem="7uo-8P-Flv" secondAttribute="top" id="5Zl-0q-5zn"/>
+                <constraint firstAttribute="trailing" secondItem="ILD-2Q-ef6" secondAttribute="trailing" id="Bzq-pu-Q1e"/>
+                <constraint firstItem="ILD-2Q-ef6" firstAttribute="leading" secondItem="7uo-8P-Flv" secondAttribute="leading" id="E5z-5E-GtB"/>
+                <constraint firstAttribute="bottom" secondItem="ILD-2Q-ef6" secondAttribute="bottom" constant="40" id="K1n-Vd-N2d"/>
+                <constraint firstAttribute="trailing" secondItem="sHX-mv-hmQ" secondAttribute="trailing" constant="18" id="Lqb-SO-Pub"/>
+                <constraint firstAttribute="bottom" secondItem="gWf-PU-PgV" secondAttribute="bottom" constant="48" id="eqy-nj-s0n"/>
+                <constraint firstAttribute="bottom" secondItem="sHX-mv-hmQ" secondAttribute="bottom" constant="21" id="muE-cF-8bH"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="225.5" y="236"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="pbg" width="640" height="360"/>
+        <image name="xifu" width="638" height="640"/>
+    </resources>
+</document>

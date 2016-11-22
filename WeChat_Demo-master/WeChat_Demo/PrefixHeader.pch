@@ -1,0 +1,12 @@
+
+
+
+#ifdef __OBJC__
+
+#import "UIView+YYFrame.h"
+
+#define kScreenWidth    [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight   [UIScreen mainScreen].bounds.size.height
+#define kScreenBounds   [UIScreen mainScreen].bounds
+
+#endif
