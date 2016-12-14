@@ -17,6 +17,7 @@
     [super viewDidLoad];
     
     self.tableView.showsVerticalScrollIndicator = NO;
+    
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{

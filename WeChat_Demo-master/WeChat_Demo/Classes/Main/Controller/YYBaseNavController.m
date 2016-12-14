@@ -2,7 +2,7 @@
 
 #import "YYBaseNavController.h"
 
-@interface YYBaseNavController ()
+@interface YYBaseNavController ()<UINavigationControllerDelegate, UIGestureRecognizerDelegate>
 
 @end
 
@@ -18,7 +18,14 @@
                                                  }];
     
     [self.navigationBar setTintColor:[UIColor whiteColor]];
-}
+    
+    self.delegate = self;
+    
+    __weak typeof(self) weakSelf = self;
+    if ([self respondsToSelector:@selector(interactivePopGestureRecognizer)]) {
+        self.interactivePopGestureRecognizer.delegate = weakSelf;
+    }
+ }
 
 - (UIStatusBarStyle)preferredStatusBarStyle{
 
@@ -50,12 +57,23 @@
 
 }
 
-//- (void)pushViewController:(UIViewController *)viewController animated:(BOOL)animated{
-//
-//    viewController.hidesBottomBarWhenPushed = YES;
-//    
-//    return [super pushViewController:viewController animated:animated];
-//}
+- (void)pushViewController:(UIViewController *)viewController animated:(BOOL)animated{
+
+    if ([self respondsToSelector:@selector(interactivePopGestureRecognizer)]) {
+        self.interactivePopGestureRecognizer.enabled = NO;
+    }
+    [super pushViewController:viewController animated:animated];
+}
+
+- (void)navigationController:(UINavigationController *)navigationController didShowViewController:(UIViewController *)viewController animated:(BOOL)animated
+{
+    if ([navigationController respondsToSelector:@selector(interactivePopGestureRecognizer)]) {
+        navigationController.interactivePopGestureRecognizer.enabled = YES;
+    }
+}
+
+
+
 
 /*
 #pragma mark - Navigation
