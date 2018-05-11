@@ -1,0 +1,762 @@
+{
+    "height": 80,
+    "layers": [
+        {
+            "compression": "zlib",
+            "data": "eJztmm1T2zAQhBWgaQK0nUKA/P9fij31DpvlFDvUGi72ftCHxxaZ3HJvOmVTSrnp1m237rq1MZvNZrPZbDabzYvjp269Des5wfe5Ju61e+zWz2H9IR0zfL/MzNr96tZxWL9FxyzfNxOrdi/0/jBoCH98TvB9s/FOtNP3vYb35cMXHc+xfg8j++GLjufP/gVd9qRNtL/fy3nR8fyPEaMap+f2qy9msqd1vYCfRf0JtNmOfF7kixnsa8laa9l23v9apsfnoawjnqEd+ruXwPYoPveBvrV43iayd05m7bi/Y3/UeL00Pg8l7n+umXGeZe3UH7n3W3N81uI10id6x/VF+zto+JDIvtbMZ6+t6FM7r/E7nR/syvrOH1F9wLPovPZaTmcI/Ld8TsliX6t8x/USmnD+qvUn2At/Zf1/lI8YzmJvq3yn/qbnilp/Ej3nZ4+DthnsnZs59vRsxfmQNYxmfJw3US+wF31jBnvn4A0trpGRz43lQ8Qt4ps5i72t8h18h/Na1LvV+jnOkegX2f+y2Dsno6fgeP07US99Bv141eap184cs71+iFetkzW94Kvcj3AMj51Hrpk3sjhetU5y/HEN0D1aT+7L6Xkkk/1z+19UU9mPoN9TOY3nY7Avi32t6wX6MmhZ60vQa6AvROzuK/sy2Pcd/XFUDxCzPLe6ZD6/NNbfBkT3sdz/wU95tndT4v9BBvtaxytrB1+K7mNRT3Q/4nMXPM9kb6t4VZvZ3/g8yucOntPz5/HzTPa2jFf4XDRvimZymKXz569h/nRb0S6qj7VZJ/bcBf8PnZdmsHfufBdpF+3XXKZ3tqwf+14me1vlu1q8wj+1puAMpvdDb+VzHc5i79ysv4Oq7eezPusc5U/4pZ5HMtjbSr9afue7yHP9h+bFsf1LYfQemu8i3Wr9R5Q/j2f2L50vqSc9r6k/nsJ81wgfivZrTVnq/O4rzPfW0fup/eJaGTP6qfluyf3x//gf5naIV60ptX5x7ax3kayb4/Wy/kbn7o7Xr/uj49VsNpvNZrPZbDabzWaz2Ww2m81ms9lsNpvNZrO5zu+fY194",
+            "encoding": "base64",
+            "height": 80,
+            "name": "di",
+            "opacity": 1,
+            "properties": {
+                "tileset": "l1",
+                "type": 2
+            },
+            "propertytypes": {
+                "tileset": "string",
+                "type": "int"
+            },
+            "type": "tilelayer",
+            "visible": true,
+            "width": 80,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "compression": "zlib",
+            "data": "eJzt2gsOgjAMgGFOpfiIouD9r6RLMECZWxEYbPu/xBCEkDLX7hGLAgAAAEBurlsHEJGz49olWBRAp946gATdtg5gR2TNe4nzsj3SD+1cY4ZG8/kclwgEWSM/dU4/vne138PzTFkzc1FtHUBE7hPvN/2xWiGOXNTiiM6cOcuv+gkgjFKc22qca42b63xF6u/pMU6sY+76OAVlMc5Z172w6+couYul+GqUrX81Cz07ReSj39T9AI0c+9o/mP+OafsO6/+OaYu5OZdDrdS8o2bee5gbSKJYMwyFqlE5jbdT/jNh2l/mfLVcKNHz9RtX/zVzF+qgXdUeNXlJG9ppameKbWebo5wd1zBEG4Un25zfAIjDd5z17QM+1w4kQpo6l+IcBUiN2VeQucp+FkJhnAAAAAAAAAAAAAAA7Nkbl8UUZw==",
+            "encoding": "base64",
+            "height": 80,
+            "name": "random",
+            "opacity": 1,
+            "properties": {
+                "tileset": "l2"
+            },
+            "propertytypes": {
+                "tileset": "string"
+            },
+            "type": "tilelayer",
+            "visible": true,
+            "width": 80,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "compression": "zlib",
+            "data": "eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA1wBkAAAB",
+            "encoding": "base64",
+            "height": 80,
+            "name": "res",
+            "needhide": true,
+            "opacity": 1,
+            "properties": {
+                "tileset": "l3",
+                "type": 3
+            },
+            "propertytypes": {
+                "tileset": "string",
+                "type": "int"
+            },
+            "type": "tilelayer",
+            "visible": true,
+            "width": 80,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "compression": "zlib",
+            "data": "eJzt2sEKgDAIANB99urro+sOQXNl4XuXXUXQidgaAABQxZYdAAAAy5nxniO3AETt2QEk8o8C1UT7Xl8SBTDjqv7GeU6tAn+mh83pw8t9lfcjAPBF5hoA4G3nbsANQYz8xckh2exJAQAAAAAAAKCWA020CXM=",
+            "encoding": "base64",
+            "height": 80,
+            "name": "mountain",
+            "opacity": 1,
+            "properties": {
+                "tileset": "l4",
+                "type": 9
+            },
+            "propertytypes": {
+                "tileset": "string",
+                "type": "int"
+            },
+            "type": "tilelayer",
+            "visible": true,
+            "width": 80,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "compression": "zlib",
+            "data": "eJzt0oENgDAMBLFODqszxEEjFVv6AXLKWgDwjntop9Cv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr9Gv0a/Rr5nqd0pD/Rr9Gv0a7Rr9Gv0a/Rr9msl+19fHbeD/Gv0a/Rr9AAAAAAAAAAAAAAAAAIA/ewB/h8EG",
+            "encoding": "base64",
+            "height": 80,
+            "name": "biaoji",
+            "opacity": 1,
+            "properties": {
+                "tileset": "l5",
+                "type": 7
+            },
+            "propertytypes": {
+                "tileset": "string",
+                "type": "int"
+            },
+            "type": "tilelayer",
+            "visible": false,
+            "width": 80,
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "nextobjectid": 46,
+    "orientation": "isometric",
+    "properties": {
+        "mapID": "201"
+    },
+    "propertytypes": {
+        "mapID": "string"
+    },
+    "renderorder": "right-down",
+    "tileheight": 128,
+    "tilesets": [
+        {
+            "columns": 7,
+            "firstgid": 1,
+            "image": "../Documents/workspace/tiled/sg2/测试地图1/terrain.png",
+            "imageheight": 939,
+            "imagewidth": 1814,
+            "margin": 0,
+            "name": "l1",
+            "properties": {
+                "riverGroup": "4-23"
+            },
+            "propertytypes": {
+                "riverGroup": "string"
+            },
+            "spacing": 6,
+            "terrains": [
+                {
+                    "name": "ground",
+                    "tile": -1
+                },
+                {
+                    "name": "water",
+                    "properties": {
+                        "ex": "water"
+                    },
+                    "propertytypes": {
+                        "ex": "string"
+                    },
+                    "tile": -1
+                },
+                {
+                    "name": "road",
+                    "tile": -1
+                }
+            ],
+            "tilecount": 49,
+            "tileheight": 129,
+            "tiles": {
+                "10": {
+                    "terrain": [
+                        1,
+                        -1,
+                        1,
+                        -1
+                    ]
+                },
+                "11": {
+                    "terrain": [
+                        -1,
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "12": {
+                    "terrain": [
+                        1,
+                        1,
+                        1,
+                        -1
+                    ]
+                },
+                "13": {
+                    "terrain": [
+                        1,
+                        1,
+                        -1,
+                        1
+                    ]
+                },
+                "14": {
+                    "terrain": [
+                        1,
+                        -1,
+                        1,
+                        1
+                    ]
+                },
+                "15": {
+                    "terrain": [
+                        1,
+                        -1,
+                        -1,
+                        1
+                    ]
+                },
+                "16": {
+                    "terrain": [
+                        -1,
+                        1,
+                        1,
+                        -1
+                    ]
+                },
+                "17": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        -1,
+                        1
+                    ]
+                },
+                "18": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        1,
+                        -1
+                    ]
+                },
+                "19": {
+                    "terrain": [
+                        -1,
+                        1,
+                        -1,
+                        -1
+                    ]
+                },
+                "20": {
+                    "terrain": [
+                        1,
+                        -1,
+                        -1,
+                        -1
+                    ]
+                },
+                "21": {
+                    "terrain": [
+                        -1,
+                        1,
+                        -1,
+                        1
+                    ]
+                },
+                "22": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        1,
+                        1
+                    ]
+                },
+                "23": {
+                    "terrain": [
+                        1,
+                        1,
+                        -1,
+                        -1
+                    ]
+                },
+                "24": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        2,
+                        2
+                    ]
+                },
+                "25": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        2,
+                        -1
+                    ]
+                },
+                "26": {
+                    "terrain": [
+                        -1,
+                        2,
+                        -1,
+                        -1
+                    ]
+                },
+                "27": {
+                    "terrain": [
+                        -1,
+                        2,
+                        2,
+                        -1
+                    ]
+                },
+                "28": {
+                    "terrain": [
+                        2,
+                        -1,
+                        -1,
+                        -1
+                    ]
+                },
+                "29": {
+                    "terrain": [
+                        -1,
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                "30": {
+                    "terrain": [
+                        2,
+                        2,
+                        2,
+                        -1
+                    ]
+                },
+                "31": {
+                    "terrain": [
+                        -1,
+                        2,
+                        2,
+                        -1
+                    ]
+                },
+                "32": {
+                    "terrain": [
+                        2,
+                        -1,
+                        2,
+                        2
+                    ]
+                },
+                "33": {
+                    "terrain": [
+                        2,
+                        2,
+                        -1,
+                        2
+                    ]
+                },
+                "34": {
+                    "terrain": [
+                        2,
+                        -1,
+                        -1,
+                        2
+                    ]
+                },
+                "35": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        2,
+                        2
+                    ]
+                },
+                "36": {
+                    "terrain": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                "37": {
+                    "terrain": [
+                        2,
+                        -1,
+                        2,
+                        -1
+                    ]
+                },
+                "38": {
+                    "terrain": [
+                        2,
+                        -1,
+                        2,
+                        -1
+                    ]
+                },
+                "39": {
+                    "terrain": [
+                        2,
+                        2,
+                        -1,
+                        -1
+                    ]
+                },
+                "4": {
+                    "terrain": [
+                        -1,
+                        1,
+                        1,
+                        -1
+                    ]
+                },
+                "40": {
+                    "terrain": [
+                        2,
+                        2,
+                        -1,
+                        -1
+                    ]
+                },
+                "41": {
+                    "terrain": [
+                        -1,
+                        2,
+                        -1,
+                        2
+                    ]
+                },
+                "42": {
+                    "terrain": [
+                        -1,
+                        2,
+                        -1,
+                        2
+                    ]
+                },
+                "43": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        -1,
+                        2
+                    ]
+                },
+                "5": {
+                    "terrain": [
+                        1,
+                        -1,
+                        1,
+                        -1
+                    ]
+                },
+                "6": {
+                    "terrain": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "7": {
+                    "terrain": [
+                        -1,
+                        1,
+                        -1,
+                        1
+                    ]
+                },
+                "8": {
+                    "terrain": [
+                        -1,
+                        -1,
+                        1,
+                        1
+                    ]
+                },
+                "9": {
+                    "terrain": [
+                        1,
+                        1,
+                        -1,
+                        -1
+                    ]
+                }
+            },
+            "tilewidth": 254
+        },
+        {
+            "columns": 0,
+            "firstgid": 50,
+            "margin": 0,
+            "name": "l2",
+            "spacing": 0,
+            "tilecount": 21,
+            "tileheight": 420,
+            "tiles": {
+                "0": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/01.png"
+                },
+                "1": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/02.png"
+                },
+                "10": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/10.png"
+                },
+                "11": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/11.png"
+                },
+                "12": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/12.png"
+                },
+                "13": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/13.png"
+                },
+                "14": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/14.png"
+                },
+                "15": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/15.png"
+                },
+                "16": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/16.png"
+                },
+                "17": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/17.png"
+                },
+                "18": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/20.png"
+                },
+                "19": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/4.png"
+                },
+                "2": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/03.png"
+                },
+                "20": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/18.png"
+                },
+                "3": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/04.png"
+                },
+                "4": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/5.png"
+                },
+                "5": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/06.png"
+                },
+                "6": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/6.png"
+                },
+                "7": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/7.png"
+                },
+                "8": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/8.png"
+                },
+                "9": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/9.png"
+                }
+            },
+            "tilewidth": 561
+        },
+        {
+            "columns": 7,
+            "firstgid": 71,
+            "image": "../Documents/workspace/tiled/sg2/测试地图1/res.png",
+            "imageheight": 1478,
+            "imagewidth": 1814,
+            "margin": 0,
+            "name": "l3",
+            "properties": {
+                "bridgeGroup": "37-48",
+                "resGroup": "0-32"
+            },
+            "propertytypes": {
+                "bridgeGroup": "string",
+                "resGroup": "string"
+            },
+            "spacing": 6,
+            "tilecount": 49,
+            "tileheight": 206,
+            "tileproperties": {
+                "0": {
+                    "ex": "water"
+                },
+                "1": {
+                    "ex": "water"
+                },
+                "10": {
+                    "ex": "water"
+                },
+                "2": {
+                    "ex": "water"
+                },
+                "3": {
+                    "ex": "water"
+                },
+                "4": {
+                    "ex": "water"
+                },
+                "5": {
+                    "ex": "water"
+                },
+                "6": {
+                    "ex": "water"
+                },
+                "7": {
+                    "ex": "water"
+                },
+                "8": {
+                    "ex": "water"
+                },
+                "9": {
+                    "ex": "water"
+                }
+            },
+            "tilepropertytypes": {
+                "0": {
+                    "ex": "string"
+                },
+                "1": {
+                    "ex": "string"
+                },
+                "10": {
+                    "ex": "string"
+                },
+                "2": {
+                    "ex": "string"
+                },
+                "3": {
+                    "ex": "string"
+                },
+                "4": {
+                    "ex": "string"
+                },
+                "5": {
+                    "ex": "string"
+                },
+                "6": {
+                    "ex": "string"
+                },
+                "7": {
+                    "ex": "string"
+                },
+                "8": {
+                    "ex": "string"
+                },
+                "9": {
+                    "ex": "string"
+                }
+            },
+            "tilewidth": 254
+        },
+        {
+            "columns": 0,
+            "firstgid": 120,
+            "margin": 0,
+            "name": "l4",
+            "spacing": 0,
+            "tilecount": 6,
+            "tileheight": 415,
+            "tileproperties": {
+                "1": {
+                    "size": "-1,-1,2,2"
+                },
+                "2": {
+                    "size": "-2,-3,4,4"
+                },
+                "3": {
+                    "siza": "0,0,1,1"
+                },
+                "4": {
+                    "size": "-1,-1,2,2"
+                },
+                "5": {
+                    "size": "-2,-3,4,4"
+                }
+            },
+            "tilepropertytypes": {
+                "1": {
+                    "size": "string"
+                },
+                "2": {
+                    "size": "string"
+                },
+                "3": {
+                    "siza": "string"
+                },
+                "4": {
+                    "size": "string"
+                },
+                "5": {
+                    "size": "string"
+                }
+            },
+            "tiles": {
+                "0": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m1.png"
+                },
+                "1": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m2.png"
+                },
+                "2": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m3.png"
+                },
+                "3": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m4.png"
+                },
+                "4": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m5.png"
+                },
+                "5": {
+                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m6.png"
+                }
+            },
+            "tilewidth": 547
+        },
+        {
+            "columns": 2,
+            "firstgid": 126,
+            "image": "../Documents/workspace/tiled/sg2/测试地图1/biaoji.png",
+            "imageheight": 932,
+            "imagewidth": 520,
+            "margin": 0,
+            "name": "l5",
+            "spacing": 6,
+            "tilecount": 14,
+            "tileheight": 128,
+            "tileproperties": {
+                "0": {
+                    "zone": "0"
+                },
+                "1": {
+                    "zone": "1"
+                },
+                "2": {
+                    "zone": "2"
+                },
+                "3": {
+                    "zone": "3"
+                },
+                "4": {
+                    "zone": "4"
+                }
+            },
+            "tilepropertytypes": {
+                "0": {
+                    "zone": "string"
+                },
+                "1": {
+                    "zone": "string"
+                },
+                "2": {
+                    "zone": "string"
+                },
+                "3": {
+                    "zone": "string"
+                },
+                "4": {
+                    "zone": "string"
+                }
+            },
+            "tilewidth": 254
+        }
+    ],
+    "tilewidth": 254,
+    "version": 1,
+    "width": 80
+}
