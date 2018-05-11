@@ -120,7 +120,7 @@
         {
             "columns": 7,
             "firstgid": 1,
-            "image": "../Documents/workspace/tiled/sg2/测试地图1/terrain.png",
+            "image": "../../Documents/workspace/tiled/sg2/测试地图1/terrain.png",
             "imageheight": 939,
             "imagewidth": 1814,
             "margin": 0,
@@ -488,67 +488,67 @@
             "tileheight": 420,
             "tiles": {
                 "0": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/01.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/01.png"
                 },
                 "1": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/02.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/02.png"
                 },
                 "10": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/10.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/10.png"
                 },
                 "11": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/11.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/11.png"
                 },
                 "12": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/12.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/12.png"
                 },
                 "13": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/13.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/13.png"
                 },
                 "14": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/14.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/14.png"
                 },
                 "15": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/15.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/15.png"
                 },
                 "16": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/16.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/16.png"
                 },
                 "17": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/17.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/17.png"
                 },
                 "18": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/20.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/20.png"
                 },
                 "19": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/4.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/4.png"
                 },
                 "2": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/03.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/03.png"
                 },
                 "20": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/18.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/18.png"
                 },
                 "3": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/04.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/04.png"
                 },
                 "4": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/5.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/5.png"
                 },
                 "5": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/06.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/06.png"
                 },
                 "6": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/6.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/6.png"
                 },
                 "7": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/7.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/7.png"
                 },
                 "8": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/8.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/8.png"
                 },
                 "9": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/random/9.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/random/9.png"
                 }
             },
             "tilewidth": 561
@@ -556,7 +556,7 @@
         {
             "columns": 7,
             "firstgid": 71,
-            "image": "../Documents/workspace/tiled/sg2/测试地图1/res.png",
+            "image": "../../Documents/workspace/tiled/sg2/测试地图1/res.png",
             "imageheight": 1478,
             "imagewidth": 1814,
             "margin": 0,
@@ -688,22 +688,22 @@
             },
             "tiles": {
                 "0": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m1.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/mountain/m1.png"
                 },
                 "1": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m2.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/mountain/m2.png"
                 },
                 "2": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m3.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/mountain/m3.png"
                 },
                 "3": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m4.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/mountain/m4.png"
                 },
                 "4": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m5.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/mountain/m5.png"
                 },
                 "5": {
-                    "image": "../Documents/workspace/tiled/sg2/测试地图1/mountain/m6.png"
+                    "image": "../../Documents/workspace/tiled/sg2/测试地图1/mountain/m6.png"
                 }
             },
             "tilewidth": 547
@@ -711,7 +711,7 @@
         {
             "columns": 2,
             "firstgid": 126,
-            "image": "../Documents/workspace/tiled/sg2/测试地图1/biaoji.png",
+            "image": "../../Documents/workspace/tiled/sg2/测试地图1/biaoji.png",
             "imageheight": 932,
             "imagewidth": 520,
             "margin": 0,
